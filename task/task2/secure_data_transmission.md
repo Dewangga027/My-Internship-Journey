@@ -10,7 +10,7 @@ This tutorial covers how to set up SSL/TLS on MQTT for secure communication betw
 
 ## Step 1: Understanding SSL/TLS and MQTT
 
-`SSL/TLS` provides encryption to secure the communication between the ESP32 (client) and the MQTT broker (server). By implementing SSL/TLS, the data transmitted over the network is encrypted, reducing the risk of eavesdropping and tampering.
+[`SSL/TLS`](https://www.digicert.com/what-is-ssl-tls-and-https) provides encryption to secure the communication between the ESP32 (client) and the MQTT broker (server). By implementing SSL/TLS, the data transmitted over the network is encrypted, reducing the risk of eavesdropping and tampering.
 
 To enable SSL/TLS, both the ESP32 and MQTT broker must trust the same CA certificate. This certificate authenticates the connection, ensuring that both parties (publisher and subscriber) are authorized.
 
