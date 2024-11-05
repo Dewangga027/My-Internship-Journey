@@ -175,5 +175,5 @@ This completes the setup for data transmission from ESP32 to Node-RED via MQTT b
 <details>
   <summary>Click to view documentation</summary>
   
-  ![🎓 task1-documentation](documentation/task1-documentation.jpeg)
+  ![task1-documentation](documentation/task1-documentation.jpeg)
 </details>
