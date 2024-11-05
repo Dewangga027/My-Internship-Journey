@@ -92,7 +92,7 @@ In this role, I engaged with a variety of technologies and platforms, gaining ha
 ## 🏆 Certification of Internship Completion
 I have successfully completed a six-month internship at PT Medion Farma Jaya. You can view my certificate of completion by expanding the section below:
 
-[View PDF Version of Certificate](documents/surat-keterangan-PKL.pdf)
+[**View PDF Version of Certificate**](./documents/surat-keterangan-PKL.pdf)
 
 <details>
   <summary>Click to view certificate</summary>
