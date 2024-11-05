@@ -1,52 +1,101 @@
-<p align="center"><img align="center" width="270" src="source/icons/icons-medion.png"/></p>
+<p align="center"><img align="center" width="450" src="source/documentation/banner.png"/></p>
+<h1 align="center">🚀Internship Resume - PT. Medion Farma Jaya</h1>
 
-# My Internship Journey during 6 Months
-This repository documents my internship experience at PT. Medion Farma Jaya. It includes projects I contributed to, challenges I overcame, and the valuable skills I developed.
+<p align="center">A comprehensive summary of my six-month internship at PT Medion Farma Jaya, focusing on the development and implementation of IoT solutions for Water Treatment Plant (WTP) management. This document highlights key projects, skills acquired, and contributions made during my role as a Software Engineering Intern.</p>
 
-## Table of Contents
+# Docs
 
-* [Introduction](#introduction)
-* [Setup Instructions](#setup-instructions)
-* [Challenges](challenges/week1/README_W1.md)
-* [Troubleshoot](troubleshoot/README_TROUBLESHOOT.md)
-* [Projects](#projects)
-* [Skills and Development](#skills-and-development)
-* [Contributions](#contributions)
-* [Conclusion](#conclusion)
+- [✨ Introduction](#introduction)
+- [🏢 Company Overview](#company-overview)
+- [🛠️ Task & Project Internship](#internship-tasks-and-projects)
+- [🚀 Key Skills and Knowledge Gained](#👨‍💻-key-skills-and-knowledge-gained)
+- [🌟 Contributions](#contributions)
+- [📌 Certification](#🏆-certification-of-internship-completion)
 
-## Introduction
-My internship at PT. Medion Farma Jaya, located in Bandung, Indonesia, presented an exciting opportunity to immerse myself in the realm of technology, particularly focusing on Node-RED. I was positioned within the Water Treatment Plant, where I delved into the implementation of IoT concepts within the facility.
+# Introduction
+<p align="center"><img align="center" style ="border-radius: 3px" src="source/icons/logo-medion.png"/></p>
 
-In the role of Software Engineering, I actively engaged with a diverse range of technologies, including:
+[**PT Medion Farma Jaya**](company-profile.md), a leading company in the production of vaccines, medicines, and livestock equipment, has a strong commitment to environmental sustainability. To support this commitment, the company has integrated Internet of Things (IoT) technology into its Water Treatment Plant (WTP) management system. This system enables real-time monitoring and control of water quality, which is critical to both the operational needs of the company and its environmental goals.
 
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)](https://nodered.org/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+### 📋 Internship Overview
+During my six-month internship as a **Software Engineering Intern**, I focused on developing IoT applications to enhance WTP management efficiency. My responsibilities included configuring and implementing various technologies to collect, process, and visualize real-time data on water quality metrics.
 
-## Setup Instructions
+> [!NOTE]  
+> **Objective**  
+> - **Academic Fulfillment**: Completing the required academic credits and deepening my knowledge in IoT technology, specifically within the Electronics Engineering field.
+> - **Practical Application**: Gaining hands-on experience with IoT in a real industrial environment, and developing problem-solving skills essential to the engineering profession.
 
-### Node.js
-1. Download the Node.js installer from the [official website](https://nodejs.org/).
-2. Run the installer and follow the on-screen instructions to complete the installation process.
-3. Verify the installation by opening a terminal and running the following command:
-    
-        node -v
-    This should display the installed Node.js version.
+> [!NOTE]  
+> **Key Responsibilities**  
+> - **IoT System Implementation**: Configuring and deploying IoT devices and sensors to monitor WTP metrics such as pH, conductivity, and flow rates.
+> - **Data Processing and Visualization**: Utilizing Node-RED and MySQL to manage, process, and visualize data in a user-friendly, real-time dashboard.
+> - **Troubleshooting and Optimization**: Addressing technical challenges and optimizing system performance to ensure data accuracy and system reliability.
 
-### Node-RED
-1. Install Node.js (follow the steps mentioned in the Node.js section).
-2. Open a terminal and install Node-RED globally using the following command:
+> [!NOTE]  
+> **Skills and Technologies Gained**  
+> - **Technical Skills**: IoT integration, Node-RED programming, SQL database management, and hands-on experience with ESP32 microcontrollers and sensor modules.
+> - **Soft Skills**: Enhanced problem-solving capabilities, teamwork, and effective time management.
 
-        npm install -g --unsafe-perm node-red
 
-### MySQL
-1. Download the MySQL installer from the [official website](https://www.mysql.com/).
-2. Run the installer and follow the on-screen instructions to complete the installation process.
-3. During installation, set up a username and password for the MySQL root user.
+# Internship Tasks and Projects
 
-### Arduino IDE
-1. Download the Arduino IDE installer from the [official website](https://www.arduino.cc/).
-2. Run the installer and follow the on-screen instructions to complete the installation process.
+| **Task**                                                                                             | **Project**                                                                                             |
+|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [Data Transmission from ESP32 to Node-RED via Broker](task/task1/data_transmission_esp32_to_nodered.md) | [Building Real-Time pH and Conductivity Report Dashboard with Export Feature]()                        |
+| [Implementing SSL/TLS Authentication on MQTT with ESP32]()                                           | [Developing Custom Node on Node-RED for Value Conversion to pH and Conductivity]()                     |
+| [Managing WTP Database via Laptop Client]()                                                          | [Creating OEE Analysis Table Dashboard for Ion Exchanger]()                                            |
+| [Logic Flow for Database Management of Hour Meter on Node-RED]()                                     | [Creating Electrical Quality Analysis Table Dashboard]()                                               |
+| [Calibration of pH and Conductivity on Distribution Machine]()                                       | -                                                                                                  |
+| [Developing Filtering Logic Flow on Node-RED for Demin Machine Data]()                               | -                                                                                                  |
+| [Recording ESP32 MAC Addresses]()                                                                    | -                                                                                                  |
 
+# 👨‍💻 Key Skills and Knowledge Gained
+
+In this role, I engaged with a variety of technologies and platforms, gaining hands-on experience in IoT, database management, and data visualization. Here’s an overview of the key tools and skills I developed:
+
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  </a>
+  <a href="https://nodered.org/">
+    <img src="https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white" alt="Node-RED"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://www.arduino.cc/">
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+  </a>
+  <a href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  </a>
+</p>
+
+
+# Setup List
+
+>[!NOTE]  
+> To download each tool, visit its official website through the links provided below. Follow the instructions on the respective pages to install the software on your system.
+
+
+|      **Tools**       |                         **Setup Installations**                          |
+| :--------------: | :------------------------------------------------------------------: |
+| <img src="source/icons/Icons-nodeRed.svg" width="48"> | [Node-RED↗](https://nodered.org/docs/getting-started/local) |
+| <img src="source/icons/Icons-nodeJS.svg" width="48"> | [NodeJS↗](https://nodejs.org/en/download/package-manager/) |
+| <img src="source/icons/Icons-mysql.svg" width="48"> | [Mysql↗](https://dev.mysql.com/doc/mysql-getting-started/en/) |
+| <img src="source/icons/Icons-arduinoIDE.svg" width="48"> | [ArduinoIDE↗](https://www.arduino.cc/en/software) |
+| <img src="source/icons/Icons-Linux.svg" width="48"> | [Ubuntu↗](https://ubuntu.com/download/desktop)|
+
+## 🏆 Certification of Internship Completion
+I have successfully completed a six-month internship at PT Medion Farma Jaya. You can view my certificate of completion by expanding the section below:
+
+[View PDF Version of Certificate](documents/surat-keterangan-PKL.pdf)
+
+<details>
+  <summary>Click to view certificate</summary>
+  
+  ![🎓 PKL Certificate](documents/surat-keterangan-PKL.png)
+</details>
