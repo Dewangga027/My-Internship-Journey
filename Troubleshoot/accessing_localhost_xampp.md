@@ -41,5 +41,5 @@ You should be able to access the XAMPP dashboard or any hosted applications with
 
 ## Helpful Links
 
-> [!IMPORTANT]  
+> [!TIP]  
 > For more detailed troubleshooting, refer to this [Stack Overflow thread](https://stackoverflow.com/questions/5524116/accessing-localhost-xampp-from-another-computer-over-lan-network-how-to).
