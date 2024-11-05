@@ -39,15 +39,16 @@ During my six-month internship as a **Software Engineering Intern**, I focused o
 
 # Internship Tasks and Projects
 
-| **Task**                                                                                             | **Project**                                                                                             |
-|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [Data Transmission from ESP32 to Node-RED via Broker](task/task1/data_transmission_esp32_to_nodered.md) | [Building Real-Time pH and Conductivity Report Dashboard with Export Feature]()                        |
-| [Implementing SSL/TLS Authentication on MQTT with ESP32](task/task2/secure_data_transmission.md)                                           | [Developing Custom Node on Node-RED for Value Conversion to pH and Conductivity]()                     |
-| [Managing WTP Database via Laptop Client]()                                                          | [Creating OEE Analysis Table Dashboard for Ion Exchanger]()                                            |
-| [Logic Flow for Database Management of Hour Meter on Node-RED]()                                     | [Creating Electrical Quality Analysis Table Dashboard]()                                               |
-| [Calibration of pH and Conductivity on Distribution Machine]()                                       | -                                                                                                  |
-| [Developing Filtering Logic Flow on Node-RED for Demin Machine Data]()                               | -                                                                                                  |
-| [Recording ESP32 MAC Addresses]()                                                                    | -                                                                                                  |
+| **Task** | **Project** | **Troubleshoot** |
+|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| [Data Transmission from ESP32 to Node-RED via Broker](task/task1/data_transmission_esp32_to_nodered.md) | [Building Real-Time pH and Conductivity Report Dashboard with Export Feature]() | [Accessing localhost (xampp) from another computer over LAN network]() |
+| [Implementing SSL/TLS Authentication on MQTT with ESP32](task/task2/secure_data_transmission.md) | [Developing Custom Node on Node-RED for Value Conversion to pH and Conductivity](task/task3/) | [host localhost is not allowed to connect to this MySQL server]() |
+| [Managing WTP Database via Laptop Client]() | [Creating OEE Analysis Table Dashboard for Ion Exchanger]()                                            | [Hall Effect Sensor Debouncing]() |
+| [Logic Flow for Database Management of Hour Meter on Node-RED]() | [Creating Electrical Quality Analysis Table Dashboard]() | [MySql error `"Pool is closed"` in node-red]() |
+| [Calibration of pH and Conductivity on Distribution Machine]()                                       | -                                                                                                  | - |
+| [Developing Filtering Logic Flow on Node-RED for Demin Machine Data]()                               | -                                                                                                  | - |
+| [Recording ESP32 MAC Addresses]()                                                                    | -                                                                                                  | - |
+
 
 # 👨‍💻 Key Skills and Knowledge Gained
 
