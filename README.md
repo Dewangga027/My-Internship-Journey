@@ -6,7 +6,7 @@
 # Docs
 
 - [✨ Introduction](#introduction)
-- [🏢 Company Overview](#company-overview)
+- [🏢 Company Overview](company-profile.md)
 - [🛠️ Task & Project Internship](#internship-tasks-and-projects)
 - [🚀 Key Skills and Knowledge Gained](#👨‍💻-key-skills-and-knowledge-gained)
 - [🌟 Contributions](#contributions)
