@@ -90,7 +90,15 @@ In this role, I engaged with a variety of technologies and platforms, gaining ha
 | <img src="source/icons/Icons-arduinoIDE.svg" width="48"> | [ArduinoIDE↗](https://www.arduino.cc/en/software) |
 | <img src="source/icons/Icons-Linux.svg" width="48"> | [Ubuntu↗](https://ubuntu.com/download/desktop)|
 
-## 🏆 Certification of Internship Completion
+# Contributions
+
+During my internship at **PT Medion Farma Jaya**, I contributed to the development of IoT projects in the Water Treatment Plant (WTP) system. This included creating a dashboard to monitor **pH** and **conductivity** parameters on the **Ion Exchanger** machine, with features that streamline monitoring and reporting processes for these parameters.
+
+> **Access Workbook**  
+> You can view the full **Work Practice Workbook** in PDF format by following this link: [**Work Practice Workbook PDF**](workbook/workbook.pdf).
+
+
+# 🏆 Certification of Internship Completion
 I have successfully completed a six-month internship at PT Medion Farma Jaya. You can view my certificate of completion by expanding the section below:
 
 [**View PDF Version of Certificate**](./documents/surat-keterangan-PKL.pdf)
