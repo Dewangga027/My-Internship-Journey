@@ -12,6 +12,7 @@
 - [🌟 Contributions](#contributions)
 - [📌 Certification](#🏆-certification-of-internship-completion)
 
+
 # Introduction
 <p align="center"><img align="center" style ="border-radius: 3px" src="source/icons/logo-medion.png"/></p>
 
